@@ -35,7 +35,7 @@ This project is a **C++ application** that converts dates from **Gregorian** and
 
 ---
 
-### Ethiopian Calendar Output
+### Accept Gregorian and Julian year
 ![Calendar Output](https://raw.githubusercontent.com/YafetGetu/GREGORIAN-TO-ETHIOPIAN-CALANDER/765d9f8d1e77eda687e73663869887ab317252e4/screenshot/calander.png)
 
 ---
